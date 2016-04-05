@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 MAR 2016 11:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 APR 2016 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -491,21 +491,21 @@ LaTeX Info: Redefining \nameref on input line 32.
 Class revtex4 Warning: Assuming \noaffiliation for M. Breidenbach, C. Kenney, T
 . Nelson, A. Tomada \\ \textit {SLAC National Accelerator Laboratory}.
 
-<figures/module.png, id=21, 593.21625pt x 261.97874pt>
+<figures/module.png, id=25, 593.21625pt x 261.97874pt>
 File: figures/module.png Graphic file (type png)
 
 <use figures/module.png>
 Package pdftex.def Info: figures/module.png used on input line 63.
 (pdftex.def)             Requested size: 468.0pt x 206.6891pt.
  [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figures/wirebond-test.pdf, id=39, 745.62794pt x 487.2627pt>
+<figures/wirebond-test.pdf, id=43, 745.62794pt x 487.2627pt>
 File: figures/wirebond-test.pdf Graphic file (type pdf)
 
 <use figures/wirebond-test.pdf>
 Package pdftex.def Info: figures/wirebond-test.pdf used on input line 78.
 (pdftex.def)             Requested size: 433.62pt x 283.3635pt.
 
-<figures/strip-218.pdf, id=42, 675.50948pt x 427.45016pt>
+<figures/strip-218.pdf, id=46, 675.50948pt x 427.45016pt>
 File: figures/strip-218.pdf Graphic file (type pdf)
 
 <use figures/strip-218.pdf>
@@ -513,7 +513,7 @@ Package pdftex.def Info: figures/strip-218.pdf used on input line 109.
 (pdftex.def)             Requested size: 361.34999pt x 228.65422pt.
  [2 <./figures/module.png>] [3 <./figures/wirebond-test.pdf>] [4 <./figures/str
 ip-218.pdf>] [5] [6]
-<figures/SiD specsheet 071214.pdf, id=200, 597.23125pt x 845.1575pt>
+<figures/SiD specsheet 071214.pdf, id=203, 597.23125pt x 845.1575pt>
 File: figures/SiD specsheet 071214.pdf Graphic file (type pdf)
 
 <use figures/SiD specsheet 071214.pdf>
@@ -521,14 +521,14 @@ Package pdftex.def Info: figures/SiD specsheet 071214.pdf used on input line 14
 5.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
-<figures/SiD-SSSD.pdf, id=201, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD.pdf, id=204, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD.pdf>
 Package pdftex.def Info: figures/SiD-SSSD.pdf used on input line 153.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
-<figures/SiD-SSSD readout.pdf, id=202, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD readout.pdf, id=205, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD readout.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD readout.pdf>
@@ -538,7 +538,7 @@ Package pdftex.def Info: figures/SiD-SSSD readout.pdf used on input line 161.
 
 LaTeX Warning: Float too large for page by 4.26184pt on input line 165.
 
-<figures/SiD-SSSD RINGPADS.pdf, id=203, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD RINGPADS.pdf, id=206, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD RINGPADS.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD RINGPADS.pdf>
@@ -548,7 +548,7 @@ Package pdftex.def Info: figures/SiD-SSSD RINGPADS.pdf used on input line 169.
 
 LaTeX Warning: Float too large for page by 2.13268pt on input line 173.
 
-<figures/test structure.pdf, id=204, 597.23125pt x 845.1575pt>
+<figures/test structure.pdf, id=207, 597.23125pt x 845.1575pt>
 File: figures/test structure.pdf Graphic file (type pdf)
 
 <use figures/test structure.pdf>
@@ -563,21 +563,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
 (./Wirebonding.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
-
-
-Package rerunfilecheck Warning: File `Wirebonding.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Wirebonding.out':
-(rerunfilecheck)             Before: 2989736BDACCEF5553BBD2ACE8A8FE1B;228
-(rerunfilecheck)             After:  0E93DEDC0FBA608066C7460EA0134FF8;294.
+Package rerunfilecheck Info: File `Wirebonding.out' has not changed.
+(rerunfilecheck)             Checksum: 0E93DEDC0FBA608066C7460EA0134FF8;294.
  ) 
 Here is how much of TeX's memory you used:
- 9063 strings out of 493117
- 129566 string characters out of 6135433
+ 9064 strings out of 493117
+ 129577 string characters out of 6135433
  242902 words of memory out of 5000000
- 12372 multiletter control sequences out of 15000+600000
+ 12373 multiletter control sequences out of 15000+600000
  10709 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,9n,39p,1670b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -591,10 +584,10 @@ local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Wirebonding.pdf (12 pages, 2401821 bytes).
+Output written on Wirebonding.pdf (12 pages, 2402015 bytes).
 PDF statistics:
- 422 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
+ 425 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
  27 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
