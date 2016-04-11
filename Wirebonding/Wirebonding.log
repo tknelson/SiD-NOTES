@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 APR 2016 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  11 APR 2016 11:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,66 +512,73 @@ File: figures/strip-218.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/strip-218.pdf used on input line 109.
 (pdftex.def)             Requested size: 361.34999pt x 228.65422pt.
  [2 <./figures/module.png>] [3 <./figures/wirebond-test.pdf>] [4 <./figures/str
-ip-218.pdf>] [5] [6]
-<figures/SiD specsheet 071214.pdf, id=203, 597.23125pt x 845.1575pt>
+ip-218.pdf>]
+<figures/Kpix_Bump8.jpg, id=191, 481.8pt x 361.35pt>
+File: figures/Kpix_Bump8.jpg Graphic file (type jpg)
+
+<use figures/Kpix_Bump8.jpg>
+Package pdftex.def Info: figures/Kpix_Bump8.jpg used on input line 127.
+(pdftex.def)             Requested size: 361.34999pt x 271.01735pt.
+ [5] [6 <./figures/Kpix_Bump8.jpg>]
+<figures/SiD specsheet 071214.pdf, id=206, 597.23125pt x 845.1575pt>
 File: figures/SiD specsheet 071214.pdf Graphic file (type pdf)
 
 <use figures/SiD specsheet 071214.pdf>
-Package pdftex.def Info: figures/SiD specsheet 071214.pdf used on input line 14
-5.
+Package pdftex.def Info: figures/SiD specsheet 071214.pdf used on input line 15
+0.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
-<figures/SiD-SSSD.pdf, id=204, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD.pdf, id=207, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD.pdf>
-Package pdftex.def Info: figures/SiD-SSSD.pdf used on input line 153.
+Package pdftex.def Info: figures/SiD-SSSD.pdf used on input line 158.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
-<figures/SiD-SSSD readout.pdf, id=205, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD readout.pdf, id=208, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD readout.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD readout.pdf>
-Package pdftex.def Info: figures/SiD-SSSD readout.pdf used on input line 161.
+Package pdftex.def Info: figures/SiD-SSSD readout.pdf used on input line 166.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
 
-LaTeX Warning: Float too large for page by 4.26184pt on input line 165.
+LaTeX Warning: Float too large for page by 4.26184pt on input line 170.
 
-<figures/SiD-SSSD RINGPADS.pdf, id=206, 597.23125pt x 845.1575pt>
+<figures/SiD-SSSD RINGPADS.pdf, id=209, 597.23125pt x 845.1575pt>
 File: figures/SiD-SSSD RINGPADS.pdf Graphic file (type pdf)
 
 <use figures/SiD-SSSD RINGPADS.pdf>
-Package pdftex.def Info: figures/SiD-SSSD RINGPADS.pdf used on input line 169.
+Package pdftex.def Info: figures/SiD-SSSD RINGPADS.pdf used on input line 174.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
 
 
-LaTeX Warning: Float too large for page by 2.13268pt on input line 173.
+LaTeX Warning: Float too large for page by 2.13268pt on input line 178.
 
-<figures/test structure.pdf, id=207, 597.23125pt x 845.1575pt>
+<figures/test structure.pdf, id=210, 597.23125pt x 845.1575pt>
 File: figures/test structure.pdf Graphic file (type pdf)
 
 <use figures/test structure.pdf>
-Package pdftex.def Info: figures/test structure.pdf used on input line 177.
+Package pdftex.def Info: figures/test structure.pdf used on input line 182.
 (pdftex.def)             Requested size: 433.62pt x 613.63268pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
  [7] [8 <./figures/SiD specsheet 071214.pdf>]
 [9 <./figures/SiD-SSSD.pdf>] [10 <./figures/SiD-SSSD readout.pdf>] [11 <./figur
 es/SiD-SSSD RINGPADS.pdf>] [12 <./figures/test structure.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
 
 (./Wirebonding.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `Wirebonding.out' has not changed.
 (rerunfilecheck)             Checksum: 0E93DEDC0FBA608066C7460EA0134FF8;294.
  ) 
 Here is how much of TeX's memory you used:
- 9064 strings out of 493117
- 129577 string characters out of 6135433
- 242902 words of memory out of 5000000
- 12373 multiletter control sequences out of 15000+600000
- 10709 words of font info for 38 fonts, out of 8000000 for 9000
+ 9069 strings out of 493117
+ 129696 string characters out of 6135433
+ 243097 words of memory out of 5000000
+ 12377 multiletter control sequences out of 15000+600000
+ 10402 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,9n,39p,1670b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -584,10 +591,10 @@ local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
 texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Wirebonding.pdf (12 pages, 2402015 bytes).
+Output written on Wirebonding.pdf (12 pages, 2433297 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 27 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 428 PDF objects out of 1000 (max. 8388607)
+ 270 compressed objects within 3 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

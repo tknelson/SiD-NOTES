@@ -120,11 +120,16 @@ A number of discussions with Hamamatsu sales and engineering personnel ensued fr
 
 In the ensuing years, progress was made on assembly processes for the similar silicon pad sensor fabricated for the SiD Electromagnetic Calorimeter (ECal) which uses the same readout scheme and KPiX ASIC and was fabricated during the same time period in the same 6-inch process at Hamamatsu.  First, IZM Fraunhofer successfully performed UBM and bump bonding of KPiX chips to the ECal sensors.  Second, the UC Davis group developed a process for solder bonding flex cables; analogous to those for the tracker; to the power, control and bias pads on the sensor: a process which is necessary for the ECal application to maintain a very low stack height.  Therefore, a second version of the polyimide flex cable for the tracker was fabricated for the same solder bonding process to allow connection to the tracker sensor without wirebonding.  
 
-Assembly of the tracker prototype recommenced with sending full-sized tracker sensors to IZM Fraunhofer for the same UBM and bump bonding of KPiX that was performed successfully for the ECal sensors.  However, unlike the ECal sensor, these attempts were unscuccessful.
-
-....
-
-\textbf{DESCRIPTION OF WHAT HAPPENED WITH KPiX BUMP BONDED TO THE TRACKER SENSOR.  (I don't think we should delve into other cable attachment attempts with epoxy, since these only distract from the problem at hand.)}
+Assembly of the tracker prototype recommenced with sending full-sized tracker sensors to IZM Fraunhofer for the same UBM and bump bonding of KPiX that was performed successfully for the ECal sensors.  Although the KPiX bonding at IZM appeared to be successful, testing showed poor and inconsistent electrical connectivity, and during probing the ASICs spontaneously detached from the sensors. Careful examination revealed that the bump bonds themselves had not failed, but rather that the substrate underneath the bonding pads on the sensor had failed.  As shown in Figure~\ref{fig:kpix_bump}, pieces of the sensor pads and underlying layers were lifted by the bumps on KPiX leaving measurable craters, approximately 10 $\mu$m deep, in the sensor. This failure mode would seem to indicate a processing failure of some kind in the layers of the sensors.
+%=======================
+\begin{figure}[htb]
+\begin{center}
+    \includegraphics[width=5in]{figures/Kpix_Bump8}
+\caption{Tracker sensor bump bonding pads after failure. Notice the pad on the left where the sensor layers have been removed leaving a hole all the way down to the silicon substrate.}
+\label{fig:kpix_bump}
+\end{center}
+\end{figure}
+%=======================
 
 \section{Status and Future Plans}
 
